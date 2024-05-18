@@ -11,6 +11,5 @@ tensorflow==2.16.1
 tensorflow_probability==0.24.0
 torch==2.2.1
 torchvision==0.17.1
-tqdm==4.66.2
 tqdm==4.65.0
 transformers==4.37.2
